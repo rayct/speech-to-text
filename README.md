@@ -52,6 +52,7 @@
 
   The Speech to Text program provides a simple and efficient way to convert spoken words into text using Python. By leveraging the SpeechRecognition library, it offers flexibility in choosing different speech recognition APIs. The program can be easily integrated into various applications requiring speech-to-text functionality.
 
+
 ---
 
 Documentation By: **Raymond C. TURNER**
