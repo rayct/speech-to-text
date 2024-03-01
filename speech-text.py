@@ -1,5 +1,5 @@
 import speech_recognition as sr
-import pyaudio
+# import pyaudio
 
 def speech_to_text():
     # Initialize recognizer
